@@ -1,52 +1,52 @@
 {
-	"Luck": {
-		"Multip": 3,
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-    "Active": false
-	},
-	"Coins": {
-		"Multip": 3,
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-		"Active": false
-	},
-	"Diamonds": {
-		"Multip": 3,
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-		"Active": false
-	},
-  "Damage": {
-		"Multip": 2,
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-		"Active": false
-	},
-	"Slashes": {
-		"Multip": 2,
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-		"Active": false
-	},
-	"Discount": {
-		"Multip": 2,
-    
-    
-    "UseBoost": false,
-    "Boost": 0,
-		
-    
-		"Active": false
-	}
+"Luck": {
+	"Multip": 2,
+
+	    "UseBoost": false,
+	    "Boost": 0,
+
+	 "Active": true
+},
+"Coins": {
+	"Multip": 2,
+
+	    "UseBoost": false,
+	    "Boost": 0,
+
+	"Active": false
+},
+"Diamonds": {
+	"Multip": 3,
+
+	    "UseBoost": false,
+	    "Boost": 0,
+
+	"Active": false
+},
+"Damage": {
+	"Multip": 2,
+
+	 "UseBoost": false,
+	 "Boost": 0,
+
+	"Active": true
+},
+"Slashes": {
+	"Multip": 2,
+
+	    "UseBoost": false,
+	    "Boost": 0,
+
+	"Active": false
+},
+"Discount": {
+	"Multip": 2,
+
+
+	    "UseBoost": false,
+	    "Boost": 0,
+
+
+	"Active": false
+}
 }
