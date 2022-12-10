@@ -1,12 +1,12 @@
 [	
 	{
 		"RewardType": "Booster",
-		"Code": "Woo500",
+		"Code": "Woo1500",
     "AwardMessage": "Free 25 min Damage Booster!",
 
 		"RewardType": "Booster",
 		Data: {
-			BoosterName: "Damage",
+			BoosterName: "DoubleDamage",
 			"Duration": 25
 		},
 
