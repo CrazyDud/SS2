@@ -1,0 +1,15 @@
+[	
+	{
+		"RewardType": "Booster",
+		"Code": "Woo500",
+    "AwardMessage": "Free 25 min Damage Booster!",
+
+		"RewardType": "Booster",
+		Data: {
+			BoosterName: "Damage",
+			"Duration": 25
+		},
+
+		"ReedemOnce": true;
+	}
+]
