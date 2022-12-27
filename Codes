@@ -1,12 +1,26 @@
 [	
 	{
 		"RewardType": "Booster",
-		"Code": "Woo1500",
+		"Code": "Woo1800",
     "AwardMessage": "Free 25 min Damage Booster!",
 
 		"RewardType": "Booster",
 		Data: {
 			BoosterName: "DoubleDamage",
+			"Duration": 25
+		},
+
+		"ReedemOnce": true;
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Woo1200",
+    "AwardMessage": "Free 25 min Coins Booster!",
+
+		"RewardType": "Booster",
+		Data: {
+			BoosterName: "DoubleCoins",
 			"Duration": 25
 		},
 
