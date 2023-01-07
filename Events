@@ -3,9 +3,9 @@
 	"Multip": 2,
 
 	    "UseBoost": true,
-	    "Boost": 25,
+	    "Boost": 30,
 
-	 "Active": false
+	 "Active": true
 },
 "Coins": {
 	"Multip": 1.5,
@@ -32,12 +32,12 @@
 	"Active": false
 },
 "Slashes": {
-	"Multip": 2,
+	"Multip": 1.5,
 
 	    "UseBoost": false,
 	    "Boost": 0,
 
-	"Active": false
+	"Active": true
 },
 "Discount": {
 	"Multip": 2,
