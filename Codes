@@ -4,7 +4,6 @@
 		"Code": "Woo1800",
     "AwardMessage": "Free 25 min Damage Booster!",
 
-		"RewardType": "Booster",
 		Data: {
 			BoosterName: "DoubleDamage",
 			"Duration": 25
@@ -18,10 +17,21 @@
 		"Code": "Woo1200",
     "AwardMessage": "Free 25 min Coins Booster!",
 
-		"RewardType": "Booster",
 		Data: {
 			BoosterName: "DoubleCoins",
 			"Duration": 25
+		},
+
+		"ReedemOnce": true;
+	},
+	
+	{
+		"RewardType": "Pet",
+		"Code": "Woo2000",
+    "AwardMessage": "Free UNIQUE PET!",
+
+		Data: {
+			Pets: "Jr. Armored Lizard"
 		},
 
 		"ReedemOnce": true;
