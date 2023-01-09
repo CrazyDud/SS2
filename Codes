@@ -28,10 +28,10 @@
 	{
 		"RewardType": "Pet",
 		"Code": "Woo2000",
-    "AwardMessage": "Free UNIQUE PET!",
+    "AwardMessage": "Free MYTHICAL PET!",
 
 		Data: {
-			Pets: "Jr. Armored Lizard"
+			Pets: "Gumball Machine"
 		},
 
 		"ReedemOnce": true;
