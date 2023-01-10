@@ -2,9 +2,9 @@
 	{
 		"RewardType": "Booster",
 		"Code": "Woo1800",
-    "AwardMessage": "Free 25 min Damage Booster!",
+   		"AwardMessage": "Free 25 min Damage Booster!",
 
-		Data: {
+		"Data": {
 			BoosterName: "DoubleDamage",
 			"Duration": 25
 		},
@@ -15,9 +15,9 @@
 	{
 		"RewardType": "Booster",
 		"Code": "Woo1200",
-    "AwardMessage": "Free 25 min Coins Booster!",
+    		"AwardMessage": "Free 25 min Coins Booster!",
 
-		Data: {
+		"Data": {
 			BoosterName: "DoubleCoins",
 			"Duration": 25
 		},
@@ -28,9 +28,9 @@
 	{
 		"RewardType": "Pet",
 		"Code": "Woo2000",
-    "AwardMessage": "Free MYTHICAL PET!",
+   		"AwardMessage": "Free MYTHICAL PET!",
 
-		Data: {
+		"Data": {
 			Pets: "Gumball Machine"
 		},
 
