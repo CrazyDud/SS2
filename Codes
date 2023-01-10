@@ -9,7 +9,7 @@
 			"Duration": 25
 		},
 
-		"ReedemOnce": true;
+		"ReedemOnce": true
 	},
 	
 	{
@@ -22,7 +22,7 @@
 			"Duration": 25
 		},
 
-		"ReedemOnce": true;
+		"ReedemOnce": true
 	},
 	
 	{
@@ -34,6 +34,6 @@
 			"Pets": "Gumball Machine"
 		},
 
-		"ReedemOnce": true;
+		"ReedemOnce": true
 	}
 ]
