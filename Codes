@@ -5,7 +5,7 @@
    		"AwardMessage": "Free 25 min Damage Booster!",
 
 		"Data": {
-			BoosterName: "DoubleDamage",
+			"BoosterName": "DoubleDamage",
 			"Duration": 25
 		},
 
@@ -18,7 +18,7 @@
     		"AwardMessage": "Free 25 min Coins Booster!",
 
 		"Data": {
-			BoosterName: "DoubleCoins",
+			"BoosterName": "DoubleCoins",
 			"Duration": 25
 		},
 
@@ -31,7 +31,7 @@
    		"AwardMessage": "Free MYTHICAL PET!",
 
 		"Data": {
-			Pets: "Gumball Machine"
+			"Pets": "Gumball Machine"
 		},
 
 		"ReedemOnce": true;
