@@ -35,5 +35,18 @@
 		},
 
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "1mVisitsWoo",
+    		"AwardMessage": "Free 15 min Booster of ALL!",
+
+		"Data": {
+			"BoosterName": "All",
+			"Duration": 15
+		},
+
+		"ReedemOnce": true
 	}
 ]
