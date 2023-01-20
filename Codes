@@ -48,5 +48,18 @@
 		},
 
 		"ReedemOnce": true
+	},
+
+        {
+		"RewardType": "Booster",
+		"Code": "Woo3500",
+   		"AwardMessage": "Free 20 min Damage Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleDamage",
+			"Duration": 20
+		},
+
+		"ReedemOnce": true
 	}
 ]
