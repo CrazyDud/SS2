@@ -14,6 +14,19 @@
 	
 	{
 		"RewardType": "Booster",
+		"Code": "REVAMPED",
+   		"AwardMessage": "Free 5 min Luck Booster!",
+
+		"Data": {
+			"BoosterName": "SuperLuck",
+			"Duration": 5
+		},
+
+		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
 		"Code": "Woo1200",
     		"AwardMessage": "Free 25 min Coins Booster!",
 
