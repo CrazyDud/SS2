@@ -74,5 +74,23 @@
 		},
 
 		"ReedemOnce": true
+	},
+	
+	 {
+		"RewardType": "Booster",
+		"Code": "BestSlasher",
+   		"AwardMessage": "Free 6 min Damage Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleDamage",
+			"Duration": 6
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 5000
+		}
 	}
 ]
