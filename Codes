@@ -92,5 +92,23 @@
 			"Type": "Likes",
 			"Value": 5000
 		}
+	},
+	
+	 {
+		"RewardType": "Booster",
+		"Code": "AmFeelinLucky",
+   		"AwardMessage": "Free 12 min Luck Booster!",
+
+		"Data": {
+			"BoosterName": "SuperLuck",
+			"Duration": 12
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 7777
+		}
 	}
 ]
