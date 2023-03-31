@@ -110,5 +110,23 @@
 			"Type": "Likes",
 			"Value": 7777
 		}
+	},
+	
+	 {
+		"RewardType": "Booster",
+		"Code": "LetsGetStrong",
+   		"AwardMessage": "Free 12 min Damage Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleDamage",
+			"Duration": 12
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 9000
+		}
 	}
 ]
