@@ -128,5 +128,22 @@
 			"Type": "Likes",
 			"Value": 9000
 		}
-	}
+	},
+	
+	{
+		"RewardType": "Pet",
+		"Code": "IsThatAFreePet",
+   		"AwardMessage": "Free EPIC PET!",
+
+		"Data": {
+			"Pets": "Angry Marshmallow"
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 12500
+		}
+	},
 ]
