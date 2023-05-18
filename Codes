@@ -129,7 +129,18 @@
 			"Value": 9000
 		}
 	},
-	
+	 {
+		"RewardType": "Booster",
+		"Code": "RELEASE",
+   		"AwardMessage": "Free 15 min Damage Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleDamage",
+			"Duration": 15
+		},
+
+		"ReedemOnce": true,
+	},
 	{
 		"RewardType": "Pet",
 		"Code": "IsThatAFreePet",
