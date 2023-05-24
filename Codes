@@ -156,5 +156,23 @@
 			"Type": "Likes",
 			"Value": 12500
 		}
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "CoinBoostPlease",
+   		"AwardMessage": "Free 7 min Coins Booster!",
+
+		"Data": {
+			"BoosterName": "DoubleCoins",
+			"Duration": 7
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 14000
+		}
 	}
 ]
