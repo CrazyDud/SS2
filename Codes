@@ -174,5 +174,22 @@
 			"Type": "Likes",
 			"Value": 14000
 		}
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "ExcitingReward",
+   		"AwardMessage": "Free Limited Pet!",
+
+		"Data": {
+			"Pets": "Angry Marshmallow"
+		},
+
+		"ReedemOnce": true,
+		
+		"Milestone":{
+			"Type": "Likes",
+			"Value": 50000
+		}
 	}
 ]
