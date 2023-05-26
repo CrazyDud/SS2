@@ -139,7 +139,7 @@
 			"Duration": 15
 		},
 
-		"ReedemOnce": true,
+		"ReedemOnce": true
 	},
 	{
 		"RewardType": "Pet",
