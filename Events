@@ -5,7 +5,7 @@
 	    "UseBoost": false,
 	    "Boost": 50,
 
-	 "Active": true
+	 "Active": false
 },
 "Coins": {
 	"Multip": 1.25,
