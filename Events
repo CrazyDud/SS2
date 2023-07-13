@@ -24,7 +24,7 @@
 	"Active": false
 },
 "Damage": {
-	"Multip": 2,
+	"Multip": 1.5,
 
 	 "UseBoost": false,
 	 "Boost": 0,
