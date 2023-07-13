@@ -204,5 +204,18 @@
 		},
 
 		"ReedemOnce": true
+	},
+
+ 	{
+		"RewardType": "Booster",
+		"Code": "Toxic",
+   		"AwardMessage": "Free Luck Booster added to Inventory!",
+
+		"Data": {
+			"BoosterName": "SuperLucky",
+			"Duration": 15
+		},
+
+		"ReedemOnce": true
 	}
 ]
