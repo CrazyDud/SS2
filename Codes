@@ -191,5 +191,18 @@
 			"Type": "Likes",
 			"Value": 25000
 		}
+	},
+
+ 	{
+		"RewardType": "Booster",
+		"Code": "PotionsFTW",
+   		"AwardMessage": "Free Booster Potions added to Inventory!",
+
+		"Data": {
+			"BoosterName": "All",
+			"Duration": 15
+		},
+
+		"ReedemOnce": true
 	}
 ]
