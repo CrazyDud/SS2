@@ -1,6 +1,6 @@
 {
 "Luck": {
-	"Multip": 2,
+	"Multip": 1.5,
 
 	    "UseBoost": false,
 	    "Boost": 50,
@@ -29,7 +29,7 @@
 	 "UseBoost": false,
 	 "Boost": 0,
 
-	"Active": false
+	"Active": true
 },
 "Slashes": {
 	"Multip": 1.5,
