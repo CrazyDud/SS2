@@ -29,7 +29,7 @@
 	 "UseBoost": false,
 	 "Boost": 0,
 
-	"Active": true
+	"Active": false
 },
 "Slashes": {
 	"Multip": 1.5,
