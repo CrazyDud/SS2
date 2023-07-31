@@ -217,5 +217,18 @@
 		},
 
 		"ReedemOnce": true
+	},
+
+ 	{
+		"RewardType": "Currency",
+		"Code": "UwU",
+   		"AwardMessage": "Free Coins!",
+
+		"Data": {
+			"Type": "Coins",
+			"Amount": 1000
+		},
+
+		"ReedemOnce": true
 	}
 ]
