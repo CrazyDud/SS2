@@ -13,7 +13,7 @@
 	    "UseBoost": false,
 	    "Boost": 0,
 
-	"Active": false
+	"Active": true
 },
 "Diamonds": {
 	"Multip": 3,
