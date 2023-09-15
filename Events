@@ -2,10 +2,10 @@
 "Luck": {
 	"Multip": 1.5,
 
-	    "UseBoost": false,
-	    "Boost": 50,
+	    "UseBoost": true,
+	    "Boost": 30,
 
-	 "Active": false
+	 "Active": true
 },
 "Coins": {
 	"Multip": 1.5,
